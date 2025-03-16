@@ -24,7 +24,12 @@ This repository documents **certifications and specializations** earned in the f
 ![Combinatorial Game Theory - Georgia Tech](https://github.com/jayrosen-design/Certificates/blob/main/certificates/Georgia%20Tech%20-%20Game%20Theory%20certificate.jpg)  
 ![Gamification - UPenn](https://github.com/jayrosen-design/Certificates/blob/main/certificates/Gamifiaction%20-%20UPenn.jpg)  
 
-## 🤖 Generative AI & AI Applications  
+## 🤖 Generative AI & AI Applications
+![Generative AI Engineering with LLMs Specialization - IBM](https://github.com/jayrosen-design/Certificates/blob/main/certificates/ibm%20gen%20ai%20engineering%20specialization.png)
+![Generative AI Applications Specialist - IBM](https://github.com/jayrosen-design/Certificates/blob/main/certificates/gen%20ai%20application%20specialist.png)
+![AI Agents Using RAG and Langchain - IBM](https://github.com/jayrosen-design/Certificates/blob/main/certificates/ibm%20agents%20rag%20lanchain.png)
+![Generative AI Engineering with Transformers & LLMs - IBM](https://github.com/jayrosen-design/Certificates/blob/main/certificates/gen%20ai%20engineering%20transformers%20llms.png)
+![Generative AI Advanced Fine-Tuning for LLMs - IBM](https://github.com/jayrosen-design/Certificates/blob/main/certificates/ibm%20gen%20ai%20fine%20tuning%20llms.png)
 ![AI Strategy and Project Management - Johns Hopkins](https://github.com/jayrosen-design/Certificates/blob/main/certificates/John%20Hopkins%20University%20-%20AI%20Strategy%20and%20Project%20Management%20certificate.jpg)  
 ![Generative AI Automation - Vanderbilt](https://github.com/jayrosen-design/Certificates/blob/main/certificates/vanderbilt%20automation%202.png)  
 ![Generative AI Leadership - Vanderbilt](https://github.com/jayrosen-design/Certificates/blob/main/certificates/Gen%20AI%20Leadership%20Vanderbilt.jpg)  
